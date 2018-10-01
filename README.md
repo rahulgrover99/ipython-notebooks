@@ -29,7 +29,7 @@ Examples using a variety of popular "data science" Python libraries.
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/DEAP.ipynb">DEAP</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Gensim.ipynb">Gensim</a>
 
-#### Machine Learning Exercises
+#### Machine Learning Exercises (must do)
 
 Implementations of the exercises presented in Andrew Ng's "Machine Learning" class on Coursera.
 
